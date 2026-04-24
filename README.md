@@ -73,13 +73,13 @@ This allows the network to learn which connections to keep and which to suppress
 ##  Visualizations
 
 ### Gate Distribution (example for higher λ)
-![Gate Distribution](images/gate_lambda_05.png)
+![Gate Distribution](gate_lambda.png)
 
 ### Lambda vs Gate Shrinkage
-![Lambda vs Gate](images/lambda_vs_gate.png)
+![Lambda vs Gate](lambda_vs_gate.png)
 
 ### Sparsity vs Accuracy Trade-off
-![Trade-off](images/sparsity_vs_accuracy.png)
+![Trade-off](sparsity_vs_accuracy.png)
 
 ---
 
