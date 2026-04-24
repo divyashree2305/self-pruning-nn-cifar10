@@ -99,3 +99,6 @@ This allows the network to learn which connections to keep and which to suppress
 - More training could further increase sparsity  
 
 ---
+## Conclusion
+
+This project shows that neural networks can be trained to reduce their own complexity during training, making them more efficient while maintaining reasonable performance.
